@@ -2,7 +2,7 @@
 class palindrome {
 
     public static void main(String[] args) {
-        int r, sum = 0, temp, num = 222;
+        int r, sum = 0, temp, num = 122;
 
         temp = num;
         while (num > 0) {
